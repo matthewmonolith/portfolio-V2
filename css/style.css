@@ -1069,11 +1069,12 @@ input.main-search-input:-ms-input-placeholder {
 .skills {
     background: #F4F4F4;
     padding: 130px 0;
+    font-size: 19px;
 }
 
 .skills .skill-wrapper h3 {
     margin: 0 0 20px 0;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 300;
 }
 
