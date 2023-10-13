@@ -135,8 +135,8 @@ $(document).ready(function () {
 	//Preloader
 	$(window).on('load', function (e) { 
 		$('#status').fadeOut(); 
-		$('#preloader').delay(350).fadeOut('slow');
-		$('body').delay(350).css({'overflow':'visible'});
+		$('#preloader').delay(700).fadeOut('slow');
+		$('body').delay(700).css({'overflow':'visible'});
 	})
 	
 });
